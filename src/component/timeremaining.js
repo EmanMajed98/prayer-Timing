@@ -85,9 +85,6 @@ function Timeremaining({ className, timingsdata, ...rest }) {
     
   }
   
-
-
-
   return (
     <div>
       <div className='flex flex-col' {...rest}>

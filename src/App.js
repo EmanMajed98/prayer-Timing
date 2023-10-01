@@ -62,6 +62,7 @@ function App() {
 //   console.log(myInterval)
 
 
+
   return (
           <>   
           <TitleData city={city} actualdata={actualdata} timingsdata={timingsdata}/>
